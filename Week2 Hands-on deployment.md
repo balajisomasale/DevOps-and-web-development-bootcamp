@@ -7,8 +7,12 @@ Deploying Java spring boot application using Git, Maven, Docker, Kubernetes into
 
 For hands-on notes : https://github.com/balajisomasale/DevOps-and-web-development-bootcamp/blob/main/WEEK1_Springboot_deployment_in_k8.pdf
 
-- Install Spring Suite tool
+- Install Java spring boot plugins in VS Code -> Done 
 - Edit the code and run it in the local
+
+  <----> getting few errors; create new project and then run with the dependencies
+
+  
 - check with local host in postman if the URL is fetching the details or not 
 
 - create a seperate repository with the java spring code
